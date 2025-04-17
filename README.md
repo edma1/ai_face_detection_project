@@ -2,6 +2,10 @@
 
 *A research project to create a custom CNN model that identifies synthetic faces with high accuracy, designed to combat the rising threat of deepfake images.*
 
+Dataset: https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces/data
+
+<img width="1026" alt="Screenshot 2025-04-17 at 1 14 10 PM" src="https://github.com/user-attachments/assets/9ee00ab2-70cb-4f48-864c-3305f7803353" />
+
 ---
 
 ## 🔍 Overview  
@@ -14,6 +18,10 @@ This project trains a custom convolutional neural network (CNN) to detect AI-gen
 
 ---
 
+
+
+---
+
 ## 🛠️ Technical Approach  
 ### Model Architecture  
 ```python
@@ -22,3 +30,4 @@ Custom CNN with:
 - BatchNormalization + MaxPooling  
 - Dropout (0.5) to prevent overfitting  
 - Sigmoid output for binary classification  
+
