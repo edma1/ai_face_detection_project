@@ -14,7 +14,7 @@ This project trains a custom convolutional neural network (CNN) to detect AI-gen
 **Key Achievements**:  
 ✅ **93.4% validation accuracy** on diverse real/fake face datasets  
 ✅ **0.983 AUC** – Exceptional at ranking "realness"  
-✅ **Optimized for efficiency** – Runs on consumer hardware  
+✅ **Optimized for efficiency** – Runs on accessible hardware  
 
 ---
 
