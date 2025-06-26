@@ -18,8 +18,13 @@ This project trains a custom convolutional neural network (CNN) to detect AI-gen
 
 ---
 
-
-
+## Project Structure
+```
+ai_face_detection_project/
+├── AI Face Detection Project Slides Deck/               # Contains slides deck used for presentation
+├── AI_Face_Detection_Project_Technical_Notebook.ipynb   # Jupyter notebooks with all code
+└── README.md                                            # This file
+```
 ---
 
 ## 🛠️ Technical Approach  
